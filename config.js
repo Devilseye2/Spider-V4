@@ -23,15 +23,15 @@ global.location = '1' //Ganti Pake Location Panel Lu
 //===========================//
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['254104301695']
-global.ownMain = '254104301695'
-global.NamaOwner = '𝕶𝖎𝖓𝖌 𝕾𝖆𝖒' //gausah diganti 
-global.sessionName = 'spidersession'
+global.owner = ['254718382875']
+global.ownMain = '254718382875'
+global.NamaOwner = '𝕶𝖎𝖓𝖌 ؄͡MR-DOOM』' //gausah diganti 
+global.sessionName = '؄͡MR-DOOM』'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
-global.namabot = '𝐒𝐏𝐈𝐃𝐄𝐑-𝐕4' //ganti aj klo mau
-global.author = '𝕶𝖎𝖓𝖌 𝕾𝖆𝖒' //ganti aj klo mau
-global.packname = '𝚂𝚙𝚒𝚍𝚎𝚛 𝙱𝚘𝚝' //ganti aj klo mau
-global.yt = 'https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk' //gausah diganti
+global.namabot = '؄͡MR-DOOM』𝐕4' //ganti aj klo mau
+global.author = '𝕶𝖎𝖓𝖌؄͡MR-DOOM』' //ganti aj klo mau
+global.packname = '؄͡MR-DOOM』 𝙱𝚘𝚝' //ganti aj klo mau
+global.yt = 'https://chat.whatsapp.com/EPSGKau0IVi7kl5lyOJO7Jk' //gausah diganti
 
 //===========================//
 
